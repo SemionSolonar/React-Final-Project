@@ -59,19 +59,3 @@ To access the admin panel:
 1. Visit `http://localhost:3000/admin` in your browser.
 2. Log in using your admin credentials.
 3. Manage book inventory in real-time using the WebSocket-powered admin panel.
-
-## Contributing
-
-If you want to contribute to this project and make it better, your help is very welcome.
-
-1. Fork the repository.
-2. Make your changes.
-3. Submit a pull request.
-
-## License
-
-This project is licensed under the [Your License] License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Note:** This README template provides a basic structure. Customize it further according to your project's specific needs. Ensure to include setup instructions for Firebase Authentication, WebSocket connections, and MongoDB configurations in your actual README file.
